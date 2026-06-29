@@ -1,0 +1,30 @@
+{
+  "topic": "Schaumrohreinsatz",
+  "cards": [
+    {
+      "q": "Woraus entsteht Löschschaum?",
+      "a": "Aus Wasser, Schaummittel und Luft – im Schaumrohr miteinander verschäumt.",
+      "l": "Löschschaum"
+    },
+    {
+      "q": "Was ist die Verschäumungszahl (VZ)?",
+      "a": "Das Verhältnis von fertigem Schaumvolumen zum eingesetzten Volumen des Wasser-Schaummittel-Gemischs.",
+      "l": "Löschschaum"
+    },
+    {
+      "q": "Nenne die Schaumarten mit ihrer Verschäumungszahl.",
+      "a": "Schwerschaum VZ bis 20, Mittelschaum VZ 20–200, Leichtschaum VZ 200–1000.",
+      "l": "Löschschaum"
+    },
+    {
+      "q": "Welcher Schaum wird wofür eingesetzt?",
+      "a": "Schwerschaum für Flüssigkeitsbrände (Klasse B), Mittelschaum zum Abdecken von Flächen, Leichtschaum zum Fluten von Räumen.",
+      "l": "Löschschaum"
+    },
+    {
+      "q": "Welche Aufgabe haben Zumischer (Z2/Z4/Z8)?",
+      "a": "Sie mischen dem Wasser Schaummittel zu. Die Zahl gibt den Durchfluss in l/min an. Übliche Zumischrate: 3 % oder 6 %.",
+      "l": "Löschschaum"
+    }
+  ]
+}

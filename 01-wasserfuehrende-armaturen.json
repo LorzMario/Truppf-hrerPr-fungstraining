@@ -1,0 +1,25 @@
+{
+  "topic": "Leitern",
+  "cards": [
+    {
+      "q": "Nenne tragbare Leitern.",
+      "a": "Steckleiter, Klappleiter, Hakenleiter, Schiebleiter (zwei- oder dreiteilig), Multifunktionsleiter und Strickleiter.",
+      "l": "Steckleiter"
+    },
+    {
+      "q": "Wie viele Teile darf eine Steckleiter haben?",
+      "a": "In der Regel maximal 4 Steckleiterteile übereinander.",
+      "l": "Steckleiter"
+    },
+    {
+      "q": "Wie groß ist der richtige Anstellwinkel einer Anlegeleiter?",
+      "a": "Etwa 65–75°. Kontrolle z. B. mit der Ellenbogenprobe.",
+      "l": "Steckleiter"
+    },
+    {
+      "q": "Welches Fahrzeug zählt zu den Hubrettungsfahrzeugen?",
+      "a": "Die Drehleiter (z. B. DLK 23/12) bzw. der Teleskopmast.",
+      "l": "Hubrettungsfahrzeug"
+    }
+  ]
+}

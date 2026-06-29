@@ -1,0 +1,20 @@
+{
+  "topic": "Gefahren / Gefahrenmatrix",
+  "cards": [
+    {
+      "q": "Nenne die Gefahren an der Einsatzstelle (Schema 4-A · 1-C · 4-E).",
+      "a": "Atemgifte, Angstreaktion, Ausbreitung, Atomare Strahlung – Chemische Stoffe – Erkrankung/Verletzung, Explosion, Einsturz, Elektrizität.",
+      "l": "Gefahren der Einsatzstelle"
+    },
+    {
+      "q": "Für wen bzw. was können diese Gefahren wirksam werden?",
+      "a": "Für die eigene Mannschaft, betroffene/zu rettende Personen, Tiere, die Umwelt und Sachwerte.",
+      "l": "Gefahren der Einsatzstelle"
+    },
+    {
+      "q": "Was ist mit der Gefahr „Ausbreitung“ gemeint?",
+      "a": "Die Ausbreitung von Feuer, Rauch oder gefährlichen Stoffen über die ursprüngliche Einsatzstelle hinaus.",
+      "l": "Gefahren der Einsatzstelle"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "topic": "Knoten & Stiche",
+  "cards": [
+    {
+      "q": "Wozu dient der Mastwurf?",
+      "a": "Zum Befestigen der Leine an Gegenständen, zum Hochziehen/Sichern von Geräten und zur Selbstsicherung.",
+      "l": "Mastwurf"
+    },
+    {
+      "q": "Wozu dient der Spierenstich?",
+      "a": "Zum Sichern anderer Knoten (z. B. Mastwurf oder Brustbund), damit sie sich nicht selbst lösen.",
+      "l": "Spierenstich"
+    },
+    {
+      "q": "Wozu dient der Zimmermannsschlag (Zimmermannsstich)?",
+      "a": "Zum Anschlagen und Hochziehen langer Gegenstände, z. B. Balken oder Saugschlauch.",
+      "l": "Zimmermannsknoten"
+    },
+    {
+      "q": "Wozu dient der Schotenstich?",
+      "a": "Zum Verbinden zweier Leinen – auch bei unterschiedlicher Stärke.",
+      "l": "Feuerwehrknoten"
+    },
+    {
+      "q": "Welcher Knoten dient der Eigensicherung bzw. Rettung?",
+      "a": "Der Brustbund (Rettungsknoten), zusätzlich gesichert mit einem Spierenstich.",
+      "l": "Brustbund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "topic": "GAMS · UN-Nr. · Gefahrensymbole",
+  "cards": [
+    {
+      "q": "Wofür steht die GAMS-Regel?",
+      "a": "G – Gefahr erkennen, A – Absperren/Absichern, M – Menschenrettung durchführen, S – Spezialkräfte alarmieren. Grundregel des Ersteinsatzes bei Gefahrgut.",
+      "l": "GAMS-Regel"
+    },
+    {
+      "q": "Was sagt die UN-Nummer aus?",
+      "a": "Eine vierstellige Stoffnummer zur eindeutigen Kennzeichnung des Gefahrgutes – sie steht unten auf der orangefarbenen Warntafel.",
+      "l": "UN-Nummer"
+    },
+    {
+      "q": "Was bedeutet die obere Zahl der Warntafel (Gefahrnummer/Kemler-Zahl)?",
+      "a": "Sie beschreibt die Gefahr. Die erste Ziffer = Hauptgefahr, eine verdoppelte Ziffer = verstärkte Gefahr. Ein vorangestelltes „X“ = der Stoff reagiert gefährlich mit Wasser.",
+      "l": "Gefahrnummer"
+    },
+    {
+      "q": "Was bedeuten die Gefahr-Ziffern 2, 3, 6 und 8?",
+      "a": "2 = Gas, 3 = entzündbarer flüssiger Stoff, 6 = giftiger Stoff, 8 = ätzender Stoff. (4 = entzündb. fester Stoff, 5 = oxidierend, 7 = radioaktiv.)",
+      "l": "Gefahrnummer"
+    },
+    {
+      "q": "Welche Form haben Gefahrzettel (Placards) und was zeigen sie?",
+      "a": "Rautenform (auf der Spitze stehendes Quadrat) mit Symbol, Farbe und der Nummer der Gefahrklasse.",
+      "l": "Gefahrzettel"
+    }
+  ]
+}

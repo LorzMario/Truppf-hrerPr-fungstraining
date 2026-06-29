@@ -1,0 +1,20 @@
+{
+  "topic": "Rechte & Pflichten",
+  "cards": [
+    {
+      "q": "Nenne Pflichten der Feuerwehrangehörigen.",
+      "a": "Regelmäßige Teilnahme an Dienst und Einsatz, Aus- und Fortbildung, Befolgen von Weisungen/Befehlen, sorgsamer Umgang mit Geräten und Verschwiegenheit.",
+      "l": "Freiwillige Feuerwehr"
+    },
+    {
+      "q": "Nenne Rechte der Feuerwehrangehörigen.",
+      "a": "Unfallversicherungsschutz, Freistellung durch den Arbeitgeber mit Lohnfortzahlung, Ersatz von Auslagen/Sachschäden und Bereitstellung der Ausrüstung.",
+      "l": "Freiwillige Feuerwehr"
+    },
+    {
+      "q": "Wem gegenüber besteht im Einsatz Weisungsgebundenheit?",
+      "a": "Gegenüber dem jeweiligen Vorgesetzten bzw. Einheitsführer im Rahmen der Führungsorganisation.",
+      "l": "Truppführer"
+    }
+  ]
+}

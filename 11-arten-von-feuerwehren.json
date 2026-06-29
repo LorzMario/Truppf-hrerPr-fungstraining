@@ -1,0 +1,30 @@
+{
+  "topic": "Fahrzeuge",
+  "cards": [
+    {
+      "q": "Wie werden Feuerwehrfahrzeuge grob eingeteilt?",
+      "a": "U. a. Löschfahrzeuge, Hubrettungsfahrzeuge, Rüst-/Gerätewagen, Tanklöschfahrzeuge, Schlauchwagen, Einsatzleitwagen und Mannschaftstransportfahrzeuge.",
+      "l": "Feuerwehrfahrzeuge in Deutschland"
+    },
+    {
+      "q": "Welche Besatzung hat ein Löschgruppenfahrzeug (z. B. LF 10)?",
+      "a": "Eine Gruppe = 1/8/9 (1 Führer, 8 Mann, 9 gesamt). Es führt Löschwasser (z. B. ~1000 l) und eine Feuerlöschkreiselpumpe mit.",
+      "l": "Löschgruppenfahrzeug"
+    },
+    {
+      "q": "Nenne die Mannschaftsstärken von Trupp, Staffel, Gruppe und Zug.",
+      "a": "Trupp 1/2 (3), Staffel 1/5 (6), Gruppe 1/8 (9), Zug 1/22 (23) – Zugtrupp plus zwei Gruppen.",
+      "l": "Feuerwehrfahrzeuge in Deutschland"
+    },
+    {
+      "q": "Was bedeutet die Bezeichnung DLK 23/12?",
+      "a": "Drehleiter mit Korb, 23 m Nennrettungshöhe bei 12 m Ausladung.",
+      "l": "Drehleiter"
+    },
+    {
+      "q": "Wofür steht die Abkürzung HLF?",
+      "a": "Hilfeleistungslöschfahrzeug – ein Löschfahrzeug mit erweiterter Beladung für die technische Hilfeleistung.",
+      "l": "Hilfeleistungslöschfahrzeug"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "topic": "Verhalten bei Gefahren (Truppführer)",
+  "cards": [
+    {
+      "q": "Wer bildet einen Trupp und wer führt ihn?",
+      "a": "Truppführer und Truppmann/-frau bilden den Trupp. Der Truppführer führt den Trupp und ist für seinen Truppmann verantwortlich.",
+      "l": "Truppführer"
+    },
+    {
+      "q": "Welche Grundregel gilt für den Trupp im Einsatz?",
+      "a": "Der Trupp bleibt immer zusammen (Truppzusammenhalt) und arbeitet nur auf Befehl des Einheitsführers.",
+      "l": "Truppführer"
+    },
+    {
+      "q": "Wie verhält sich der Truppführer bei plötzlicher Gefahr?",
+      "a": "Ruhe bewahren, Eigensicherung beachten, ggf. Rückzug auf sicherem Weg und sofortige Lagemeldung an den Einheitsführer.",
+      "l": "Truppführer"
+    },
+    {
+      "q": "Was prüft/überwacht der Truppführer vor dem Vorgehen?",
+      "a": "Vollständigkeit und Sitz der PSA, Atemschutzüberwachung/Druck, den Rückweg, den Auftrag und die Kommunikation.",
+      "l": "Atemschutzgeräteträger"
+    },
+    {
+      "q": "Wie wird ein Atemschutznotfall gemeldet?",
+      "a": "Über Funk mit dem Notruf „Mayday“, wenn ein Atemschutzgeräteträger in Not gerät.",
+      "l": "Atemschutzgeräteträger"
+    }
+  ]
+}

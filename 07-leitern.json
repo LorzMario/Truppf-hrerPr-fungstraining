@@ -1,0 +1,20 @@
+{
+  "topic": "Absicherung der Einsatzstelle",
+  "cards": [
+    {
+      "q": "Wie wird eine Einsatzstelle im Verkehr abgesichert?",
+      "a": "Warnkleidung tragen, Fahrzeuge als Schutz quer stellen, Warnblink-/Blaulicht einschalten, Verkehrsleitkegel und Warndreieck aufstellen, ggf. Polizei anfordern.",
+      "l": "Sondersignal"
+    },
+    {
+      "q": "Welche Abstände gelten grob beim Aufstellen der Absicherung?",
+      "a": "Faustwerte: innerorts ab ca. 50–100 m, außerorts ca. 200 m, Autobahn ca. 400 m vor der Einsatzstelle – Leitkegel gestaffelt aufstellen.",
+      "l": "Sondersignal"
+    },
+    {
+      "q": "Womit sichert sich der einzelne Feuerwehrangehörige?",
+      "a": "Durch normgerechte Warnkleidung und durch ständiges Beobachten des fließenden Verkehrs.",
+      "l": "Sondersignal"
+    }
+  ]
+}

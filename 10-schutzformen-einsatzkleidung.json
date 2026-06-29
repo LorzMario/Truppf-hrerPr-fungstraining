@@ -1,0 +1,35 @@
+{
+  "topic": "Wasserführende Armaturen",
+  "cards": [
+    {
+      "q": "Was versteht man unter wasserführenden Armaturen?",
+      "a": "Geräte zum Fortleiten, Verteilen, Regeln und Abgeben des Löschwassers. Einteilung in Armaturen der Wasserentnahme, der Wasserfortleitung und der Wasserabgabe.",
+      "l": "Wasserführende Armaturen im Brandschutz"
+    },
+    {
+      "q": "Nenne Armaturen der Wasserentnahme.",
+      "a": "Saugkorb, Standrohr (Unterflurhydrant) und Sammelstück. Dienen der Entnahme aus offenem Gewässer bzw. aus dem Hydrantennetz.",
+      "l": "Saugkorb"
+    },
+    {
+      "q": "Welche Aufgabe hat der Saugkorb?",
+      "a": "Er hält grobe Verschmutzungen zurück und besitzt ein Rückschlagventil (Fußventil), damit die gefüllte Saugleitung in der Ansaugpause nicht leerläuft.",
+      "l": "Saugkorb"
+    },
+    {
+      "q": "Was macht der Verteiler?",
+      "a": "Er verteilt das Wasser einer B-Leitung auf drei Abgänge (C – B – C) und ermöglicht das Absperren und Regeln der einzelnen Leitungen.",
+      "l": "Verteiler (Feuerwehr)"
+    },
+    {
+      "q": "Wozu dient das Sammelstück?",
+      "a": "Es führt zwei B-Leitungen zur Pumpe zusammen (2×B → A). Die Rückschlagklappe verhindert Wasseraustritt, wenn nur eine Leitung angeschlossen ist.",
+      "l": "Wasserführende Armaturen im Brandschutz"
+    },
+    {
+      "q": "Wozu dient der Stützkrümmer?",
+      "a": "Er wird vor dem B-Strahlrohr eingesetzt und nimmt einen Teil der Rückstoßkräfte auf, sodass das Rohr leichter und sicherer zu halten ist.",
+      "l": "Stützkrümmer"
+    }
+  ]
+}

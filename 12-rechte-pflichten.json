@@ -1,0 +1,30 @@
+{
+  "topic": "Funkgerät bedienen",
+  "cards": [
+    {
+      "q": "Welche Grundregeln gelten beim Sprechfunk?",
+      "a": "Erst hören – dann sprechen; kurz, klar und deutlich sprechen; Betriebsworte verwenden; schwierige Wörter und Namen buchstabieren.",
+      "l": "Sprechfunk"
+    },
+    {
+      "q": "Wie ist ein Funkgespräch aufgebaut?",
+      "a": "Anruf – Antwort – Nachricht (mit „kommen“) – Bestätigung/Quittung. Abgeschlossen wird mit „Ende“.",
+      "l": "Sprechfunk"
+    },
+    {
+      "q": "Was bedeuten die Betriebsworte „Kommen“ und „Ende“?",
+      "a": "„Kommen“ = eigene Sprechphase beendet, Antwort wird erwartet. „Ende“ = Gespräch abgeschlossen, keine Antwort erwartet.",
+      "l": "Sprechfunk"
+    },
+    {
+      "q": "Wie lautet ein korrekter Anruf?",
+      "a": "„[Rufname des Gerufenen] von [Rufname des Rufenden] – kommen.“",
+      "l": "Sprechfunk"
+    },
+    {
+      "q": "In welchem Standard arbeitet der Digitalfunk BOS?",
+      "a": "TETRA (Terrestrial Trunked Radio).",
+      "l": "TETRA"
+    }
+  ]
+}

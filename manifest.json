@@ -1,0 +1,30 @@
+{
+  "topic": "Verbrennen & Löschen",
+  "cards": [
+    {
+      "q": "Welche Voraussetzungen müssen für eine Verbrennung gleichzeitig erfüllt sein?",
+      "a": "Brennbarer Stoff, Sauerstoff, Zündtemperatur (Wärme/Energie) und das richtige Mengenverhältnis.",
+      "l": "Verbrennung (Chemie)"
+    },
+    {
+      "q": "Wie kann ein Brand gelöscht werden?",
+      "a": "Durch Entzug einer Voraussetzung: Abkühlen (Wärmeentzug, z. B. Wasser), Ersticken (Sauerstoffentzug, z. B. Schaum/CO₂) und Entzug/Trennen des Brennstoffs.",
+      "l": "Verbrennung (Chemie)"
+    },
+    {
+      "q": "Nenne die Brandklassen.",
+      "a": "A = feste Stoffe, B = flüssige/flüssig werdende Stoffe, C = Gase, D = Metalle, F = Speisefette/-öle.",
+      "l": "Brandklasse"
+    },
+    {
+      "q": "Welche Mindestabstände gelten beim Löschen mit Wasser an Niederspannung (bis 1000 V)?",
+      "a": "Sprühstrahl mindestens 1 m, Vollstrahl mindestens 5 m.",
+      "l": "Mehrzweckstrahlrohr"
+    },
+    {
+      "q": "Welche Mindestabstände gelten an Hochspannung (über 1000 V)?",
+      "a": "Sprühstrahl mindestens 5 m, Vollstrahl mindestens 10 m.",
+      "l": "Mehrzweckstrahlrohr"
+    }
+  ]
+}

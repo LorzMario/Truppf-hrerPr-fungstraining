@@ -1,0 +1,25 @@
+{
+  "topic": "Arten von Feuerwehren",
+  "cards": [
+    {
+      "q": "Welche Arten von Feuerwehren gibt es?",
+      "a": "Freiwillige Feuerwehr, Berufsfeuerwehr, Pflichtfeuerwehr und Werkfeuerwehr (Betriebsfeuerwehr).",
+      "l": "Feuerwehr"
+    },
+    {
+      "q": "Was kennzeichnet die Freiwillige Feuerwehr?",
+      "a": "Sie besteht aus ehrenamtlichen Angehörigen und trägt in den meisten Gemeinden den abwehrenden Brandschutz und die Hilfeleistung.",
+      "l": "Freiwillige Feuerwehr"
+    },
+    {
+      "q": "Wann wird eine Pflichtfeuerwehr aufgestellt?",
+      "a": "Wenn sich nicht genügend Freiwillige finden und keine Berufsfeuerwehr besteht – die Gemeinde verpflichtet dann Einwohner zum Dienst.",
+      "l": "Pflichtfeuerwehr"
+    },
+    {
+      "q": "Was ist die Jugendfeuerwehr?",
+      "a": "Die Jugendabteilung zur Nachwuchsgewinnung; sie nimmt nicht am Einsatzdienst teil.",
+      "l": "Jugendfeuerwehr"
+    }
+  ]
+}

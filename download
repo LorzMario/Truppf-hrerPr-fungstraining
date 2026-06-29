@@ -1,0 +1,25 @@
+{
+  "topic": "Geräte zum Verletztentransport",
+  "cards": [
+    {
+      "q": "Nenne Geräte zum Transport von Verletzten.",
+      "a": "Krankentrage, Schaufeltrage, Vakuummatratze, Spineboard/Rettungsbrett, Rettungstuch/Tragetuch, Schleifkorbtrage und die Krankentragehalterung im Fahrzeug.",
+      "l": "Krankentrage"
+    },
+    {
+      "q": "Wofür wird die Schaufeltrage verwendet?",
+      "a": "Zum schonenden Aufnehmen Verletzter, ohne sie umlagern zu müssen – sie wird von beiden Seiten untergeschoben.",
+      "l": "Schaufeltrage"
+    },
+    {
+      "q": "Wofür dient die Vakuummatratze?",
+      "a": "Zur Ruhigstellung (Immobilisation) des gesamten Körpers, z. B. bei Wirbelsäulen- oder Mehrfachverletzungen.",
+      "l": "Vakuummatratze"
+    },
+    {
+      "q": "Wann wird ein Rettungstuch eingesetzt?",
+      "a": "Zum schnellen Retten/Transportieren von Personen über kurze Strecken und durch enge Bereiche.",
+      "l": "Rettungstuch"
+    }
+  ]
+}

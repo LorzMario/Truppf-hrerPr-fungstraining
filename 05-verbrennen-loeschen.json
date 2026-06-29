@@ -1,0 +1,25 @@
+{
+  "topic": "Schutzformen Einsatzkleidung",
+  "cards": [
+    {
+      "q": "Welche PSA gehört zur Grundausstattung?",
+      "a": "Feuerwehrschutzanzug, Helm mit Nackenschutz, Schutzhandschuhe, Sicherheitsschuhe, Feuerwehrhaltegurt, Flammschutzhaube – bei Bedarf zusätzlich Atemschutz.",
+      "l": "Ausrüstung von Feuerwehrangehörigen"
+    },
+    {
+      "q": "Was kennzeichnet den Körperschutz Form 1?",
+      "a": "Kontaminationsschutz – leichter Schutz gegen Stäube und leichte Spritzer (Kontaminationsschutzanzug) in Verbindung mit Atemschutz.",
+      "l": "Kontaminationsschutzanzug"
+    },
+    {
+      "q": "Was kennzeichnet den Körperschutz Form 2?",
+      "a": "Begrenzt flüssigkeitsdichter Schutzanzug gegen Spritzer flüssiger Gefahrstoffe, getragen mit umluftunabhängigem Atemschutz.",
+      "l": "Chemikalienschutzanzug"
+    },
+    {
+      "q": "Was kennzeichnet den Körperschutz Form 3?",
+      "a": "Gasdichter Chemikalienschutzanzug (CSA) mit umluftunabhängigem Atemschutz – die höchste Schutzstufe.",
+      "l": "Chemikalienschutzanzug"
+    }
+  ]
+}
