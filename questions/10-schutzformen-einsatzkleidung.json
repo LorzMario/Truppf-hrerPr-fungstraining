@@ -20,6 +20,26 @@
       "q": "Was kennzeichnet den Körperschutz Form 3?",
       "a": "Gasdichter Chemikalienschutzanzug (CSA) mit umluftunabhängigem Atemschutz – die höchste Schutzstufe.",
       "l": "Chemikalienschutzanzug"
+    },
+    {
+      "q": "Wann muss die vorschriftsmäßige persönliche Schutzausrüstung getragen werden?",
+      "a": "Grundsätzlich bei **Einsätzen, praktischer Ausbildung und Einsatzübungen** (vgl. UVV). Die Mindestausrüstung ist entsprechend dem Einsatzauftrag und nach Weisung der Führungskräfte zu **ergänzen**.",
+      "l": "Persönliche Schutzausrüstung"
+    },
+    {
+      "q": "Wofür wird Hitzeschutzkleidung eingesetzt?",
+      "a": "Zum **Schutz gegen Wärmestrahlung**. Sie zählt zur Gruppe 1 der feuerwehrtechnischen Ausrüstung (DIN 14800).",
+      "l": "Hitzeschutzkleidung"
+    },
+    {
+      "q": "Welche Schutzausrüstung wird für ABC-Einsätze mitgeführt?",
+      "a": "**Chemikalien- und ölbeständige Schutzhandschuhe**, **Chemikalienschutzkleidung** und **Kontaminationsschutzkleidung**.",
+      "l": "Chemikalienschutzanzug"
+    },
+    {
+      "q": "Wofür werden Wathosen und Warnkleidung eingesetzt?",
+      "a": "**Wathosen** für Arbeiten an bzw. in Gewässern, **Warnkleidung (Warnwesten)** zur Warnung von Verkehrsteilnehmern.",
+      "l": "Warnkleidung"
     }
   ]
 }

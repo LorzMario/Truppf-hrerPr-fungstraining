@@ -15,6 +15,51 @@
       "q": "Was ist mit der Gefahr „Ausbreitung“ gemeint?",
       "a": "Die Ausbreitung von Feuer, Rauch oder gefährlichen Stoffen über die ursprüngliche Einsatzstelle hinaus.",
       "l": "Gefahren der Einsatzstelle"
+    },
+    {
+      "q": "Was sind Atemgifte und wie schützt man sich?",
+      "a": "Stoffe, die über die **Atemwege oder die Hautatmung** in den Körper eindringen und gesundheitsschädigend wirken (Gase, Dämpfe, Stäube, Aerosole). Schutz: **sofortiger Rückzug** aus dem Gefahrenbereich, Meldung an die Führungskraft, **kein unnötiger Aufenthalt im Rauch**, Atemschutz.",
+      "l": "Atemgift"
+    },
+    {
+      "q": "Wie lautet die 4-A-Regel bei atomarer Strahlung?",
+      "a": "**Abstand halten – Abschirmung nutzen – Aufenthaltsdauer begrenzen – Abschalten.** Zusätzlich: Inkorporation ausschließen und Kontamination vermeiden.",
+      "l": "Strahlenschutz"
+    },
+    {
+      "q": "Worauf ist bei der Gefahr „Einsturz“ zu achten?",
+      "a": "Auf **Abbrand von Holzbauteilen**, **Festigkeitsverlust von Stahlbauteilen**, **Rissbildungen**, Verschiebungen/Durchbiegungen/Schrägstellungen sowie **Geräusche** (Knacken, Reißen). Schutz: Rückzug aus dem **Trümmerschatten**, notfalls Deckung unter Türstürzen, Knotenpunkte gezielt kühlen.",
+      "l": "Gefahren der Einsatzstelle"
+    },
+    {
+      "q": "Wann besteht Explosionsgefahr und was ist zu tun?",
+      "a": "Wenn eine **explosionsfähige Atmosphäre** vorliegt (Gemisch aus brennbaren Gasen, Dämpfen oder Stäuben mit Luft innerhalb der Explosionsgrenzen). Dazu zählen auch **Stichflammen, Druckbehälter- und Fliehkraftzerfall**. Schutz: Zündquellen vermeiden, Aufwirbelungen vermeiden (Sprühstrahl), aus Deckung und Entfernung kühlen, Türen zum Brandraum aus der Deckung öffnen.",
+      "l": "Explosionsgrenze"
+    },
+    {
+      "q": "In welchen Formen tritt die Gefahr Elektrizität auf?",
+      "a": "Als **Berührungsspannung**, **Spannungsüberschlag** und **Schrittspannung (Spannungstrichter)**. Bis zur bestätigten und überprüften Freischaltung ist immer von Gefahren durch Elektrizität auszugehen.",
+      "l": "Schrittspannung"
+    },
+    {
+      "q": "Welche Sicherheitsabstände gelten zu spannungsführenden Anlagen?",
+      "a": "**Niederspannung (bis 1000 V): 1 m.** **Hochspannung:** bis 110 kV = 3 m, bis 220 kV = 4 m, bis 380 kV = 5 m, bei **unbekannter Spannung 5 m**. Zu Oberleitungen im Bahnbereich mindestens **1,50 m**.",
+      "l": "Elektrische Spannung"
+    },
+    {
+      "q": "Welcher Abstand ist zu gerissenen Hochspannungsleitungen einzuhalten?",
+      "a": "Mindestens **20 m Abstand zum Auflagepunkt** der gerissenen Leitung.",
+      "l": "Schrittspannung"
+    },
+    {
+      "q": "Was zählt zur Gefahr „Erkrankung/Verletzung“?",
+      "a": "Erkrankungen und Verletzungen, die aufgrund ihrer Art oder Schwere für die Lagebeurteilung bedeutsam sind – **einschließlich der Wirkungen biologischer Gefahren**. Zu beachten: Infektions- und Verletzungsrisiken; Schutz durch Hygieneregeln, Impfungen, Desinfektion und körperliche Fitness.",
+      "l": "Gefahren der Einsatzstelle"
+    },
+    {
+      "q": "Wie begegnet man einer Angstreaktion?",
+      "a": "Angstreaktionen können bei **Mensch und Tier** auftreten und zu unüberlegten Handlungen bis zum Schock führen. Maßnahmen: **Zuspruch, Beruhigung, Betreuung**, Retten, Schocklagerung – bei Tieren möglichst durch vertraute, sachkundige Personen.",
+      "l": "Gefahren der Einsatzstelle"
     }
   ]
 }

@@ -19,6 +19,11 @@ README.md
 Die Fragen stehen **NICHT** in der Webseite, sondern im Ordner `questions/`.
 Bearbeitet wird ausschließlich über diese Dateien (nicht über die Webseite).
 
+## Inhaltliche Grundlage
+Die Fragen orientieren sich u. a. an
+- NABK-Ausbildungsunterlage **Truppmannausbildung Teil 1** (Stand 21.01.2020)
+- NLBK-Lernunterlage **Löscheinsatz (QS 1)** (Stand 09/2023) sowie der **FwDV 3**
+
 ## Fragen bearbeiten / hinzufügen / löschen
 
 Jede Themendatei sieht so aus:

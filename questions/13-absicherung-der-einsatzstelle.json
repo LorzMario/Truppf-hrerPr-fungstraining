@@ -15,6 +15,16 @@
       "q": "Womit sichert sich der einzelne Feuerwehrangehörige?",
       "a": "Durch normgerechte Warnkleidung und durch ständiges Beobachten des fließenden Verkehrs.",
       "l": "Sondersignal"
+    },
+    {
+      "q": "Welche Warngeräte führt die Feuerwehr mit (Gruppe 6 nach DIN 14800)?",
+      "a": "**Warndreieck** und **Warnleuchte** nach StVZO, **Verkehrsleitkegel**, **Winkerkelle**, **Blitzleuchte**, **Folienabsperrband**, **Warnschilder** und **Lichtfackeln**.",
+      "l": "Verkehrsleitkegel"
+    },
+    {
+      "q": "Warum ist bei Verkehrsunfällen mit Folgeunfällen zu rechnen?",
+      "a": "Weil der Verkehr oft noch **fließt** – das zählt zur Gefahr **„Ausbreitung“** (Ausweitung der Schadenslage). Auch **Glatteisbildung durch Löschwasser** gehört dazu.",
+      "l": "Gefahren der Einsatzstelle"
     }
   ]
 }

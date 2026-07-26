@@ -25,6 +25,46 @@
       "q": "Wie wird ein Atemschutznotfall gemeldet?",
       "a": "Ein Atemschutznotfall wird über den Funkspruch **„Mayday, Mayday, Mayday“** gemeldet. Danach folgt die Notfallmeldung nach dem **W-Schema**: **Wer** meldet? **Wo** befindet sich der Trupp? **Was** ist passiert? Und **was wird benötigt**, zum Beispiel ein Rettungstrupp. Die Meldung soll kurz, klar und verständlich erfolgen.",
       "l": "Atemschutzgeräteträger"
+    },
+    {
+      "q": "Wie haben sich Feuerwehrangehörige im Einsatz grundsätzlich zu verhalten?",
+      "a": "So, dass **Eigengefährdungen und die Gefährdung anderer vermieden** werden, der **Einsatz geordnet abläuft** und das **Ansehen der Feuerwehr nicht geschädigt** wird.",
+      "l": "Feuerwehr"
+    },
+    {
+      "q": "Wer darf nicht ausrücken?",
+      "a": "Niemand **unter Alkohol- oder Medikamenteneinfluss**. **Krankgeschriebene** Feuerwehrangehörige dürfen nicht ausrücken, akut Erkrankte sollten es auch im Zweifelsfall nicht. Bei Schwangerschaft sind die Mutterschutzbestimmungen zu beachten.",
+      "l": "Feuerwehr"
+    },
+    {
+      "q": "Warum ist die Sitzordnung im Fahrzeug wichtig?",
+      "a": "Weil durch sie die **Aufgabenverteilung festgelegt** ist. Beim Aufsitzen muss jede/r überlegen, welche Funktion sie/er übernehmen kann oder darf (A-Trupp/AGT? W-Trupp? S-Trupp? Melder? Maschinist?) – abhängig von Ausbildungsstand, Führerscheinklasse und Erfahrung.",
+      "l": "Löschgruppe"
+    },
+    {
+      "q": "Wie verhält man sich beim Eintreffen am Einsatzort?",
+      "a": "Diszipliniert: **erst auf Kommando des Einheitsführers absitzen** und hinter dem Fahrzeug antreten. Befehle genau beachten und sachgerecht sowie unfallsicher ausführen – im Zweifelsfall nachfragen.",
+      "l": "Löschgruppe"
+    },
+    {
+      "q": "Was gilt bei Rückzugssignal oder Rückzugsbefehl?",
+      "a": "**Sofortiger Rückzug aus dem Gefahrenbereich und Antreten am Fahrzeug** – vgl. das Kommando **„Gefahr – alle sofort zurück!“** nach FwDV 3.",
+      "l": "Feuerwehr-Dienstvorschrift"
+    },
+    {
+      "q": "Wo hält man sich auf, wenn kein Einsatzauftrag vorliegt?",
+      "a": "**Bereitstellung am Verteiler oder am Fahrzeug.** Kein Aufenthalt im Einsatz- bzw. Gefahrenbereich ohne Auftrag und ohne erforderliche PSA – die Führungskräfte müssen die Übersicht behalten.",
+      "l": "Verteiler (Feuerwehr)"
+    },
+    {
+      "q": "Was ist bei persönlicher Überforderung zu tun?",
+      "a": "Vermeintliche **physische oder psychische Überforderung dem Einheitsführer melden** – auch nach dem Einsatz.",
+      "l": "Einsatznachsorge"
+    },
+    {
+      "q": "Welche Meldepflicht hat der Truppmann gegenüber dem Truppführer?",
+      "a": "**Erkannte Gefahren sind sofort dem Truppführer zu melden.** Truppmitglieder müssen Gefahrenhinweise erkennen, von anderen Kennzeichnungen unterscheiden und eindeutig beschreiben können.",
+      "l": "Truppführer"
     }
   ]
 }

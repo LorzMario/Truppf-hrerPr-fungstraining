@@ -1,0 +1,60 @@
+{
+  "topic": "Unfallversicherung",
+  "cards": [
+    {
+      "q": "Wer gewährleistet in Niedersachsen den Unfallversicherungsschutz der Feuerwehr?",
+      "a": "Die **Feuerwehr-Unfallkasse Niedersachsen (FUK)**. Die Aufwendungen trägt die öffentliche Hand, da die Freiwilligen Feuerwehren als „Unternehmen zur Hilfeleistung bei Unglücksfällen“ gelten.",
+      "l": "Feuerwehr-Unfallkasse"
+    },
+    {
+      "q": "Auf welche Personen erstreckt sich der gesetzliche Unfallversicherungsschutz?",
+      "a": "Auf **alle im Feuerwehrdienst Tätigen**, auf **Teilnehmer und Ausbilder** feuerwehrdienstlicher Ausbildungsveranstaltungen sowie auf **Helfer**, die im Einsatzfall zur Unterstützung herangezogen werden.",
+      "l": "Gesetzliche Unfallversicherung"
+    },
+    {
+      "q": "Worauf erstreckt sich der Umfang des Versicherungsschutzes?",
+      "a": "Auf **Arbeitsunfälle**, **Wegeunfälle** und **Berufskrankheiten**.",
+      "l": "Gesetzliche Unfallversicherung"
+    },
+    {
+      "q": "Was ist ein Arbeitsunfall im Sinne der Unfallversicherung?",
+      "a": "Ein Unfall, den eine versicherte Person **bei einer versicherten Tätigkeit** (Einsatz, Übung usw.) erleidet. Zwischen Unfallereignis und Körperschaden muss ein **rechtlich-wesentlicher Zusammenhang** bestehen.",
+      "l": "Arbeitsunfall"
+    },
+    {
+      "q": "Was gilt als Wegeunfall?",
+      "a": "Unfälle auf dem Weg zum Feuerwehrdienst und zurück zur Wohnung. Versichert ist grundsätzlich der **unmittelbare Weg**; Umwege nur bei Fahrgemeinschaften oder wenn sie geringfügig sind. Das Verkehrsmittel ist frei wählbar.",
+      "l": "Wegeunfall"
+    },
+    {
+      "q": "Wann entfällt der Versicherungsschutz?",
+      "a": "Wenn der Gesundheitsschaden auf **körperlicher Veranlagung oder Vorschäden** beruht, oder wenn sich der Unfall **unter Alkoholeinwirkung** ereignet und der Alkohol die allein wesentliche Ursache war.",
+      "l": "Gesetzliche Unfallversicherung"
+    },
+    {
+      "q": "Welche Tätigkeiten sind versichert?",
+      "a": "Einsatzdienst, Arbeits- und Werkstättendienst, **angeordneter** Ausbildungs- und Übungsdienst, **angeordneter** Dienstsport, Sitzungen der Gremien der Feuerwehr und sonstige angeordnete dienstliche Veranstaltungen.",
+      "l": "Gesetzliche Unfallversicherung"
+    },
+    {
+      "q": "Welche Leistungen stehen nach einem Versicherungsfall zu?",
+      "a": "Medizinische Leistungen (Heilbehandlung), ergänzende Leistungen und Berufshilfe, **Verletztengeld**, **Übergangsgeld** und **Verletztenrente**. Im Todesfall: Sterbegeld, Überführungskosten und Hinterbliebenenrente.",
+      "l": "Gesetzliche Unfallversicherung"
+    },
+    {
+      "q": "Wie ist bei einem Feuerwehrdienstunfall zu verfahren?",
+      "a": "**Meldung an den unmittelbaren Vorgesetzten** (Trupp-/Einheitsführer, Ausbilder) und Eintrag ins **Verbandbuch**. Beim Arzt auf den **Feuerwehrdienstunfall hinweisen**. Bei ärztlicher Behandlung ist innerhalb von **drei Tagen** eine Unfallanzeige auf dem Dienstweg bei der FUK einzureichen.",
+      "l": "Feuerwehr-Unfallkasse"
+    },
+    {
+      "q": "Welche Aufgaben hat der Sicherheitsbeauftragte der Feuerwehr?",
+      "a": "Er ist **Ansprechpartner vor Ort** in allen Fragen des Arbeits- und Gesundheitsschutzes, **berät** den Leiter der Feuerwehr und die Führungskräfte und achtet auf sicherheitsrelevante Gegebenheiten (PSA, Erste Hilfe, Unterweisungen, Einhaltung der UVV).",
+      "l": "Sicherheitsbeauftragter"
+    },
+    {
+      "q": "Welche Aufgaben hat jedes einzelne Feuerwehrmitglied bei der Unfallverhütung?",
+      "a": "**Strikte Beachtung der Unfallverhütungsvorschriften (UVV)** und **Hinweise bzw. Warnungen auf erkannte oder vermutete Gefahren** geben.",
+      "l": "Unfallverhütungsvorschrift"
+    }
+  ]
+}

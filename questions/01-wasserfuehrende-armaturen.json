@@ -30,6 +30,51 @@
       "q": "Wozu dient der Stützkrümmer?",
       "a": "Er wird vor dem B-Strahlrohr eingesetzt und nimmt einen Teil der Rückstoßkräfte auf, sodass das Rohr leichter und sicherer zu halten ist.",
       "l": "Stützkrümmer"
+    },
+    {
+      "q": "Wozu dient der Saugschutzkorb A?",
+      "a": "Er verhindert das **Zusetzen des Saugkorbes durch grobe Verunreinigungen** und wird zusätzlich vor den Saugkorb gesetzt.",
+      "l": "Saugkorb"
+    },
+    {
+      "q": "Was ist ein Systemtrenner B-FW und wozu dient er?",
+      "a": "Eine **Sicherungsarmatur mit reduziertem Ausgangsdruck**. Er verhindert das **Rückfließen von Löschwasser** ins Trinkwassernetz und sorgt dafür, dass der Druck auf der Ausgangsseite immer niedriger ist als auf der Eingangsseite. Einsatz bei der Wasserentnahme aus dem Trinkwassernetz.",
+      "l": "Systemtrenner"
+    },
+    {
+      "q": "Wie ist ein Standrohr aufgebaut?",
+      "a": "Eine wasserführende Armatur mit **zwei Absperrventilen**, am Zugang mit **Klauenmutter** und an den beiden Abgängen mit **B-Festkupplungen**. Es dient der Wasserentnahme aus **Unterflurhydranten**.",
+      "l": "Standrohr"
+    },
+    {
+      "q": "Wozu dient das Druckbegrenzungsventil B?",
+      "a": "Zur **Begrenzung des maximalen Betriebsdrucks** in einer Schlauchleitung. Bei Überschreiten des eingestellten Sollwerts wird das Wasser über den Überlauf ins Freie abgeleitet.",
+      "l": "Druckbegrenzungsventil"
+    },
+    {
+      "q": "Wie viel Wasser liefern Mehrzweckstrahlrohre bei 4 bar (Faustwerte)?",
+      "a": "Jeweils **mit / ohne Mundstück**: **BM 300 / 600 l/min**, **CM 100 / 200 l/min**, **DM 25 / 50 l/min**.",
+      "l": "Mehrzweckstrahlrohr"
+    },
+    {
+      "q": "Was ist der Unterschied zwischen Mehrzweck- und Hohlstrahlrohr?",
+      "a": "Das **Mehrzweckstrahlrohr** gibt Wasser als Voll- oder Sprühstrahl ab (feste Durchflussmengen). Das **Hohlstrahlrohr** erlaubt eine **variable Strahlform und Durchflussmenge** – je nach Größe bis zu 1000 l/min.",
+      "l": "Hohlstrahlrohr"
+    },
+    {
+      "q": "Wozu dient eine Löschlanze?",
+      "a": "Zum **gezielten Ablöschen tiefer liegender Brandherde**, z. B. bei Heu- oder Strohballenbränden und bei Düngemittelzersetzungen. Löschlanzen sind **nicht genormt**.",
+      "l": "Löschlanze"
+    },
+    {
+      "q": "Was bedeutet die Ziffer in der Bezeichnung eines Schaumstrahlrohrs (z. B. S 2, M 4)?",
+      "a": "Die **Ziffer × 100 ergibt die Durchflussmenge in l/min** (S 2 = 200 l/min). **S** = Schwerschaum, **M** = Mittelschaum, ein zusätzliches **W** steht für „Weitwurf“.",
+      "l": "Schaumstrahlrohr"
+    },
+    {
+      "q": "Wozu dient der Zumischer?",
+      "a": "Er **mischt dem Wasservolumenstrom das Schaummittel zu**. Aus dem entstehenden Wasser-Schaummittel-Gemisch erzeugt das Schaumstrahlrohr den Löschschaum. Zumischer können einstellbar sein – Anweisungen dazu gibt der Gruppenführer.",
+      "l": "Zumischer"
     }
   ]
 }

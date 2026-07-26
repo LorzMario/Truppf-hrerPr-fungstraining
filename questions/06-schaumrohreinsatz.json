@@ -25,6 +25,31 @@
       "q": "Welche Aufgabe haben Zumischer (Z2/Z4/Z8)?",
       "a": "Sie mischen dem Wasser Schaummittel zu. Die Zahl gibt den Durchfluss in l/min an. Übliche Zumischrate: 3 % oder 6 %.",
       "l": "Löschschaum"
+    },
+    {
+      "q": "Wie wirkt Löschschaum?",
+      "a": "Er **deckt das Brandgut ab und erstickt den Brand** durch Verhinderung des Sauerstoffzutritts. **Schwerschaum** hat wegen des hohen Wasseranteils zusätzlich eine gewisse **Kühlwirkung**.",
+      "l": "Löschschaum"
+    },
+    {
+      "q": "Wird Schaum fertig auf dem Fahrzeug mitgeführt?",
+      "a": "Nein. Schaum wird **nicht fertig zubereitet mitgeführt**, sondern muss mit Geräten zur Schaumerzeugung **erst an der Einsatzstelle hergestellt** werden.",
+      "l": "Löschschaum"
+    },
+    {
+      "q": "Wie hoch sind die üblichen Zumischraten?",
+      "a": "**Synthetische Schaummittel ca. 3 %**, **Protein-Schaummittel ca. 5 %**. Auf die richtige Zumischung ist unbedingt zu achten.",
+      "l": "Schaummittel"
+    },
+    {
+      "q": "Welche Einsatzhinweise gelten beim Schaumeinsatz?",
+      "a": "Beim Einbau des Zumischers **Fließrichtung beachten**; Schaumstrahlrohr **erst auf das Brandgut richten, wenn Schaum austritt**; Schaum **gleichmäßig und in einem Zuge** aufbringen; **nicht direkt** auf Flüssigkeitsoberflächen, sondern indirekt z. B. von Behälterwandungen ablaufen lassen; Ausrüstung nach dem Einsatz **gut durchspülen**.",
+      "l": "Löschschaum"
+    },
+    {
+      "q": "Woraus besteht Löschschaum und welche Eigenschaft hat er?",
+      "a": "Aus den Komponenten **Luft, Wasser und Schaummittel**. Er ist **leichter als jede brennbare Flüssigkeit** und schwimmt deshalb auf.",
+      "l": "Löschschaum"
     }
   ]
 }

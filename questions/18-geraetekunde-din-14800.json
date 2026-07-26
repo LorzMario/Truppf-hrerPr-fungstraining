@@ -1,0 +1,70 @@
+{
+  "topic": "Gerätekunde (DIN 14800) & Schläuche",
+  "cards": [
+    {
+      "q": "Wie wird die feuerwehrtechnische Ausrüstung insgesamt eingeteilt?",
+      "a": "In **persönliche Ausrüstung** (Mindestausrüstung + Ergänzung), **Geräte der feuerwehrtechnischen Ausrüstung** (DIN 14800) und **Feuerwehrfahrzeuge** (EN 1846-1).",
+      "l": "Feuerwehrtechnische Beladung"
+    },
+    {
+      "q": "In wie viele Gruppen teilt die DIN 14800 die Geräte ein?",
+      "a": "In **9 Gruppen**: 1 Schutzkleidung/Schutzgeräte, 2 Löschgeräte, 3 Schläuche/Armaturen/Zubehör, 4 Rettungsgeräte, 5 Sanitäts- und Wiederbelebungsgerät, 6 Beleuchtungs-, Signal- und Fernmeldegerät, 7 Arbeitsgeräte, 8 Handwerkszeug und Messgerät, 9 Sondergeräte.",
+      "l": "Feuerwehrtechnische Beladung"
+    },
+    {
+      "q": "Was zählt zur Gruppe 1 (Schutzkleidung und Schutzgerät)?",
+      "a": "Warnkleidung, Wathosen, chemikalien- und ölbeständige Schutzhandschuhe, Chemikalienschutzkleidung, Kontaminationsschutzkleidung, Hitzeschutzkleidung und Atemschutzgeräte.",
+      "l": "Persönliche Schutzausrüstung"
+    },
+    {
+      "q": "Was gehört zum Kleinlöschgerät (Gruppe 2)?",
+      "a": "Die **Kübelspritze A 10** (Form A, 10 l Wasserinhalt, gefüllt) und die **Feuerpatsche** mit 2,40 m langem Stiel.",
+      "l": "Kübelspritze"
+    },
+    {
+      "q": "Woraus besteht ein Schaum-Löschgerät (Gruppe 2)?",
+      "a": "Aus **Zumischer**, **Schaumstrahlrohr**, **Leichtschaumgenerator** (200/400/800 l/min), **D-Ansaugschläuchen** und dem **Schaummittelbehälter mit 20 Litern** Schaummittel.",
+      "l": "Zumischer"
+    },
+    {
+      "q": "Worin unterscheiden sich Saug- und Druckschläuche?",
+      "a": "**Saugschläuche sind formbeständig** (behalten ihren Querschnitt bei Unterdruck), ihre Dichtungen haben **Saug- und Drucklippe**. **Druckschläuche sind nicht formbeständig**, lassen sich flach falten und haben Dichtungen nur mit **Drucklippe**.",
+      "l": "Feuerwehrschlauch"
+    },
+    {
+      "q": "Nenne die genormten Druckschläuche mit Innendurchmesser.",
+      "a": "**D 25** (25 mm), **C 42** (42 mm), **C 52** (52 mm), **B 75** (75 mm), **A 110** (110 mm) und **F 152** (152 mm). Übliche Längen: C und B meist 15/20/30 m.",
+      "l": "Feuerwehrschlauch"
+    },
+    {
+      "q": "Wie liest man die Bezeichnung eines Saugschlauchs „A–110–1500–K“?",
+      "a": "**A** = Größe/Kupplung, **110** = Innendurchmesser in mm, **1500** = Länge in mm (1,5 m), **K** = mit Kupplungen.",
+      "l": "Saugschlauch"
+    },
+    {
+      "q": "Was ist ein Hochdruckschlauch der Feuerwehr?",
+      "a": "Ein Druckschlauch für Hochdruckpumpen mit einem **Arbeitsdruck von mindestens 40 bar** und einem **Berstdruck von mindestens 100 bar**.",
+      "l": "Feuerwehrschlauch"
+    },
+    {
+      "q": "Was zählt zur Gruppe 7 (Arbeitsgerät)?",
+      "a": "Hebezeuge, Seile/Leinen/Anschlagmittel, Pumpen (Tragkraftspritzen TS, Tauchpumpen TP, Umfüllpumpen TUP, Turbinentauchpumpen TTP), Stromerzeuger, motorbetriebenes Arbeitsgerät (Lüfter, Motorsägen, Trennschleifer) und Zubehör wie der Einreißhaken.",
+      "l": "Tragkraftspritze"
+    },
+    {
+      "q": "Was zählt zur Gruppe 8 (Handwerkzeug und Messgerät)?",
+      "a": "Handwerkzeug wie Brechstange, Nageleisen, Feuerwehraxt, Blechaufreißer, Bolzenschneider, Klappspaten, Multifunktionsbrechwerkzeug und Spalthammer sowie **Mess- und Warngeräte für Gase und Dämpfe**.",
+      "l": "Feuerwehraxt"
+    },
+    {
+      "q": "Welches Beleuchtungsgerät gehört zur Gruppe 6?",
+      "a": "Handscheinwerfer, Kopfscheinwerfer, Arbeitsstellenscheinwerfer, Flutlichtstrahler, Stativ, Aufnahmebrücke, Abzweigstück 3-fach und Leitungstrommel.",
+      "l": "Handscheinwerfer"
+    },
+    {
+      "q": "Wer stellt die persönliche Schutzausrüstung und wer trägt die Kosten für ihre Instandhaltung?",
+      "a": "Die PSA muss **jedem aktiven Feuerwehrangehörigen vom Träger der Feuerwehr gestellt** werden. Die Kosten für Prüfung, Pflege, Wartung, Instandsetzung und Ersatz trägt die **Gemeinde**.",
+      "l": "Persönliche Schutzausrüstung"
+    }
+  ]
+}

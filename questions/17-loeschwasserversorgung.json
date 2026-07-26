@@ -1,0 +1,45 @@
+{
+  "topic": "Löschwasserversorgung",
+  "cards": [
+    {
+      "q": "Wie wird die Löschwasserversorgung grundsätzlich unterschieden?",
+      "a": "In die **zentrale Wasserversorgung** (Rohrnetz/Trinkwassernetz) und die **unabhängige Löschwasserversorgung** (alle vom Rohrleitungsnetz unabhängigen Entnahmestellen).",
+      "l": "Löschwasserversorgung"
+    },
+    {
+      "q": "Woraus wird bei der zentralen Wasserversorgung entnommen?",
+      "a": "Aus **Hydranten** – Unterflur- oder Überflurhydranten. Gespeist wird das Netz vom Trinkwasserversorgungsnetz.",
+      "l": "Hydrant"
+    },
+    {
+      "q": "Wie gliedert sich die unabhängige Löschwasserversorgung?",
+      "a": "In die **erschöpfliche** (Löschwasserteiche, unterirdische Löschwasserbehälter) und die **unerschöpfliche** Löschwasserversorgung (natürliche/künstliche offene Gewässer, Löschwasserbrunnen).",
+      "l": "Löschwasserversorgung"
+    },
+    {
+      "q": "Was ist ein Löschwasserteich (DIN 14210)?",
+      "a": "Ein **künstlich angelegter offener Löschwasserbehälter** mit befestigter Entnahmestelle. Er ist mit einem Saugschacht oder mindestens einem Saugrohr ausgestattet.",
+      "l": "Löschwasserteich"
+    },
+    {
+      "q": "Was ist ein Löschwasserbrunnen (DIN 14220)?",
+      "a": "Eine **künstlich angelegte Entnahmestelle für Löschwasser aus dem Grundwasser**. Die Entnahme erfolgt im Saugbetrieb oder mittels Tiefpumpe.",
+      "l": "Löschwasserbrunnen"
+    },
+    {
+      "q": "Was ist ein Löschwasserbehälter (DIN 14230)?",
+      "a": "Ein **künstlich angelegter, überdeckter Behälter** mit mindestens einer Entnahmestelle. Nach größerer Entnahme muss er von der Feuerwehr wieder aufgefüllt werden.",
+      "l": "Löschwasserbehälter"
+    },
+    {
+      "q": "Was bedeuten die Angaben oberhalb der Linie auf Hinweisschildern für Löschwasserentnahmestellen?",
+      "a": "Sie bezeichnen die **Art der Entnahmestelle** – **B** für Brunnen, **H** für Hydrant – bzw. das **Behältervolumen** (z. B. 300 m³) und bei Hydranten den **Durchmesser der Rohrleitung** in mm.",
+      "l": "Hinweisschild für Löschwasserentnahmestellen"
+    },
+    {
+      "q": "Was sagen die Zahlen unterhalb der Linie auf dem Hinweisschild aus?",
+      "a": "Sie geben **Richtung und Entfernung zur Löschwasserentnahmestelle** an – die Entfernung in Metern.",
+      "l": "Hinweisschild für Löschwasserentnahmestellen"
+    }
+  ]
+}

@@ -25,6 +25,51 @@
       "q": "Wofür steht die Abkürzung HLF?",
       "a": "Hilfeleistungslöschfahrzeug – ein Löschfahrzeug mit erweiterter Beladung für die technische Hilfeleistung.",
       "l": "Hilfeleistungslöschfahrzeug"
+    },
+    {
+      "q": "Wie sind Feuerwehrfahrzeuge nach EN 1846-1 eingeteilt?",
+      "a": "In **Einsatzleitfahrzeuge** (Führen taktischer Einheiten), **Löschfahrzeuge** (Brandbekämpfung, einfache techn. Hilfeleistung), **Hubrettungsfahrzeuge** (Retten aus Höhen, Vortragen eines Löschangriffs), **Rüst- und Gerätewagen** (technische Hilfeleistung) und **Nachschubfahrzeuge**.",
+      "l": "Feuerwehrfahrzeuge in Deutschland"
+    },
+    {
+      "q": "Was ist ein Feuerwehrfahrzeug nach DIN 14011?",
+      "a": "Ein für den Feuerwehreinsatz besonders gestaltetes Kraft- oder Anhängefahrzeug zur **Aufnahme einer Besatzung und/oder feuerwehrtechnischer Beladung** sowie von Lösch- und sonstigen Einsatzmitteln.",
+      "l": "Feuerwehrfahrzeuge in Deutschland"
+    },
+    {
+      "q": "Was kennzeichnet ein TSF und ein TSF-W?",
+      "a": "Beide haben **Staffelbesatzung** und eine PFPN 10-1000. Das **TSF** führt 8 B, 9 C, 4-tlg. Steckleiter und 4 PA mit. Das **TSF-W** hat zusätzlich **500 l Wasser**, eine Schnellangriffseinrichtung und 10 B.",
+      "l": "Tragkraftspritzenfahrzeug"
+    },
+    {
+      "q": "Was zeichnet KLF und MLF aus?",
+      "a": "Beide haben **Staffelbesatzung** und Ausrüstung für eine Gruppe. **KLF**: PFPN 10-1000, 500 l Wasser. **MLF**: FPN 10-1000, 600 l Wasser. Beide mit Schnellangriff, 4-tlg. Steckleiter, 4 PA und 4 BOS-Handfunkgeräten.",
+      "l": "Kleinlöschfahrzeug"
+    },
+    {
+      "q": "Wodurch unterscheiden sich LF 10 und LF 20?",
+      "a": "Beide haben **Gruppenbesatzung**. **LF 10**: FPN 10-1000, 1200/1000 l Wasser, 14 B, 12 C, 4-tlg. Steckleiter. **LF 20**: FPN 10-2000, 2000/1600 l Wasser, zusätzlich **3-tlg. Schiebleiter**, Sprungrettungsgerät und Einsatzstellenbeleuchtung.",
+      "l": "Löschgruppenfahrzeug"
+    },
+    {
+      "q": "Welche Tanklöschfahrzeuge gibt es und wie viel Wasser führen sie mit?",
+      "a": "Alle mit **Truppbesatzung**: **TLF 2000** = 2000 l Wasser / 60 l Schaummittel, **TLF 3000** = 3000 l / 120 l, **TLF 4000** = 4000 l / 500 l Schaummittel mit Schaum-Wasser-Werfer.",
+      "l": "Tanklöschfahrzeug"
+    },
+    {
+      "q": "Was kennzeichnet einen Rüstwagen (RW)?",
+      "a": "**Truppbesatzung**, **50 kN Zugeinrichtung** (optional 80 kN), Stromerzeuger ≥ 22 kVA, Multifunktionsleiter, Lichtmast, Kettensäge und Plasmaschneidgerät.",
+      "l": "Rüstwagen"
+    },
+    {
+      "q": "Welche Drehleitergrößen werden unterschieden?",
+      "a": "**DLA (K) 12-9** (12 m Nennrettungshöhe bei 9 m Ausladung), **DLA (K) 18-12** (18 m bei 12 m) und **DLA (K) 23-12** (23 m bei 12 m).",
+      "l": "Drehleiter"
+    },
+    {
+      "q": "Was bedeutet das LF 20 KatS?",
+      "a": "Ein Löschgruppenfahrzeug für den Katastrophenschutz mit **Gruppenbesatzung**, **zwei Pumpen** (FPN 10-2000 und PFPN 10-1500), 1000 l Wasser, 30 B, 14 C, 4 PA und 120 l Schaummittel.",
+      "l": "Löschgruppenfahrzeug"
     }
   ]
 }

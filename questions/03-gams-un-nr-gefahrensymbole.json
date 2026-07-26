@@ -25,6 +25,31 @@
       "q": "Welche Form haben Gefahrzettel (Placards) und was zeigen sie?",
       "a": "Rautenform (auf der Spitze stehendes Quadrat) mit Symbol, Farbe und der Nummer der Gefahrklasse.",
       "l": "Gefahrzettel"
+    },
+    {
+      "q": "Wie muss ein Truppmitglied eine erkannte Kennzeichnung beschreiben können?",
+      "a": "Nach **Grundform**, **Grundfarbe(n)** und ggf. **Beschriftung**. Erkannte Gefahrenhinweise sind dem **Truppführer** zu melden.",
+      "l": "Gefahrgutkennzeichnung"
+    },
+    {
+      "q": "Wie sieht die orangefarbene Warntafel nach GGVSEB aus?",
+      "a": "**Grundform Rechteck**, Format **40 × 30 cm** (oder 12 × 30 cm), **Grundfarbe orange**, beschriftet mit Ziffern oder unbeschriftet. Sie findet sich an Front und Heck bzw. an den Seiten des Transportfahrzeugs.",
+      "l": "Warntafel"
+    },
+    {
+      "q": "Wie sieht ein Gefahrzettel nach GGVSEB aus?",
+      "a": "**Auf der Spitze stehendes Quadrat**, Kantenlänge **25 cm**, Grundfarben u. a. weiß, orange, grün, rot, gelb, blau, teilweise senkrecht gestreift, mit Gefahrensymbol und/oder Gefahrenklasse. Zu finden als **Aufkleber auf Versandstücken, Verpackungen und Containern**.",
+      "l": "Gefahrzettel"
+    },
+    {
+      "q": "Wie sieht eine Kennzeichnung nach Gefahrstoffverordnung aus?",
+      "a": "**Auf der Spitze stehendes Quadrat**, **weiß mit rotem Rand**, mindestens 1 cm², mit Gefahrensymbol und ggf. Signalwort („Achtung“ oder „Gefahr“). Zu finden **auf Verpackungen**.",
+      "l": "Gefahrstoffkennzeichnung"
+    },
+    {
+      "q": "Wie sind betriebliche Gefahrenbereiche gekennzeichnet?",
+      "a": "**Auf der Basis stehendes Dreieck**, **Grundfarbe gelb**, beschriftet mit einem Gefahrensymbol. Zu finden an den **Zugangstüren** zu den gefährdeten Bereichen.",
+      "l": "Warnzeichen"
     }
   ]
 }

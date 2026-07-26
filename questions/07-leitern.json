@@ -20,6 +20,36 @@
       "q": "Welches Fahrzeug zählt zu den Hubrettungsfahrzeugen?",
       "a": "Die Drehleiter (z. B. DLK 23/12) bzw. der Teleskopmast.",
       "l": "Hubrettungsfahrzeug"
+    },
+    {
+      "q": "Wie können tragbare Leitern eingesetzt werden?",
+      "a": "Als **Rettungsweg**, als **Angriffsweg** und als **Hilfsgerät**. Sie werden auf Fahrzeugen mitgeführt und von der Mannschaft zum Einsatz getragen.",
+      "l": "Tragbare Leitern"
+    },
+    {
+      "q": "Was ist ein Sprungrettungsgerät und was ist dabei verboten?",
+      "a": "Ein Gerät zum möglichst schonenden **Auffangen frei fallender Personen** – mechanisch als **Sprungtuch**, pneumatisch als **Sprungpolster**. **Schau- und Übungssprünge sind unzulässig.**",
+      "l": "Sprungrettungsgerät"
+    },
+    {
+      "q": "Wozu dient die Feuerwehrleine F 30?",
+      "a": "Zum **Retten und Sichern von Personen** sowie zum **Selbstretten**. Sie wird im Feuerwehrleinenbeutel mitgeführt.",
+      "l": "Feuerwehrleine"
+    },
+    {
+      "q": "Wozu dient der Auffanggurt mit Schulter- und Schrittriemen?",
+      "a": "Zur **Sicherung gegen Absturzgefahren im Sinne des „Auffangens“** – genormt nach DIN EN 361/813.",
+      "l": "Auffanggurt"
+    },
+    {
+      "q": "Wofür wird der Gerätesatz Absturzsicherung verwendet?",
+      "a": "**Ausschließlich zum Sichern** sowie zur technischen Hilfeleistung und Brandbekämpfung in größeren Höhen und Tiefen, **wenn freies Hängen im Seil ausgeschlossen** werden kann. Nur **besonders geschultes Personal** darf ihn einsetzen.",
+      "l": "Absturzsicherung"
+    },
+    {
+      "q": "Was ist das Rollgliss?",
+      "a": "Ein **modular aufgebautes Auf- und Abseilsystem** zur Sicherung und Rettung von Personen aus Höhen und Tiefen (E DIN 14800-16).",
+      "l": "Abseilgerät"
     }
   ]
 }

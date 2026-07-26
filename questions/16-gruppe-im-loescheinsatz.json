@@ -1,0 +1,80 @@
+{
+  "topic": "Gruppe im Löscheinsatz (FwDV 3)",
+  "cards": [
+    {
+      "q": "Welche Dienstvorschrift regelt den Einsatz der Gruppe im Löscheinsatz?",
+      "a": "Die **FwDV 3 – „Einheiten im Lösch- und Hilfeleistungseinsatz“**. Sie beschreibt Gliederung, Aufgaben und Ablauf der taktischen Einheiten (Trupp, Staffel, Gruppe, Zug).",
+      "l": "Feuerwehr-Dienstvorschrift"
+    },
+    {
+      "q": "Aus welchen Funktionen besteht die Gruppe im Löscheinsatz?",
+      "a": "Gruppenführer, Maschinist, Melder, Angriffstrupp (A-Trupp), Wassertrupp (W-Trupp) und Schlauchtrupp (S-Trupp) – zusammen 1/8/9.",
+      "l": "Löschgruppe"
+    },
+    {
+      "q": "Wann rüsten sich Angriffs- und Wassertrupp mit Atemschutz aus?",
+      "a": "**Wenn möglich schon auf der Anfahrt.** So ist der Trupp beim Eintreffen sofort einsatzbereit und es geht keine Zeit an der Einsatzstelle verloren.",
+      "l": "Atemschutzgeräteträger"
+    },
+    {
+      "q": "Wie darf im Gefahrenbereich vorgegangen werden?",
+      "a": "Grundsätzlich **nur truppweise** – der Trupp bleibt zusammen. Kein Aufenthalt im Gefahrenbereich ohne Auftrag und ohne die erforderliche persönliche Schutzausrüstung.",
+      "l": "Truppführer"
+    },
+    {
+      "q": "Was ist beim Einsatz eines Löschfahrzeugs mit Löschwassertank zuerst zu verlegen?",
+      "a": "Bei einem Löschfahrzeug mit Löschwasser wird **zuerst die Leitung vom Fahrzeug zum Verteiler** verlegt. Erst danach folgt die Wasserversorgung von der Entnahmestelle (z. B. Hydrant) zum Fahrzeug.",
+      "l": "Verteiler (Feuerwehr)"
+    },
+    {
+      "q": "Wann darf der Innenangriff begonnen werden?",
+      "a": "Der Innenangriff darf **erst begonnen werden, wenn die ständige Wasserabgabe gesichert ist** – also eine unterbrechungsfreie Wasserversorgung steht.",
+      "l": "Innenangriff"
+    },
+    {
+      "q": "Warum werden Einsatzbefehle wiederholt?",
+      "a": "Das Wiederholen des Befehls stellt sicher, dass der Auftrag **richtig verstanden** wurde, und dient der Rückmeldung an den Einheitsführer.",
+      "l": "Befehl (Feuerwehr)"
+    },
+    {
+      "q": "Was tut ein Trupp nach Beendigung seines Auftrags?",
+      "a": "Nach Auftragsbeendigung **melden sich einsatzbereite Trupps beim Gruppenführer** zurück und warten dort auf einen neuen Auftrag.",
+      "l": "Löschgruppe"
+    },
+    {
+      "q": "Welches Kommando gilt bei akuter Gefahr für alle Einsatzkräfte?",
+      "a": "**„Gefahr – alle sofort zurück!“** Auf dieses Kommando erfolgt der sofortige Rückzug aus dem Gefahrenbereich und das Antreten am Fahrzeug.",
+      "l": "Feuerwehr-Dienstvorschrift"
+    },
+    {
+      "q": "Was bedeutet „Einsatz mit Bereitstellung“?",
+      "a": "Der **gesamte Einsatz wird bis zum Verteiler aufgebaut** und dort angehalten. Der Gruppenführer erkundet weiter und gibt anschließend den Einsatzbefehl für das weitere Vorgehen.",
+      "l": "Verteiler (Feuerwehr)"
+    },
+    {
+      "q": "Was tun die Trupps beim Brandeinsatz „mit Bereitstellung“?",
+      "a": "Der **Angriffstrupp rüstet sich mit PA aus**, der **Wassertrupp stellt sich als Sicherheitstrupp bereit** und der **Schlauchtrupp legt ausreichend C-Schläuche am Verteiler bereit**.",
+      "l": "Sicherheitstrupp"
+    },
+    {
+      "q": "Wie viele C-Längen werden beim „Einsatz ohne Bereitstellung“ als Faustwert benötigt?",
+      "a": "**Je eine C-Länge zur Überwindung eines Geschosses** und **mindestens je eine C-Länge pro abzusuchender Nutzungseinheit**. Dabei sind die Gebäudeabmessungen zu beachten.",
+      "l": "Feuerwehrschlauch"
+    },
+    {
+      "q": "Wer baut beim Schaumrohreinsatz die Schaumausrüstung auf?",
+      "a": "Der **Schlauchtrupp** bringt Zumischer, D-Ansaugschlauch und Schaummittelbehälter vor, kuppelt den Zumischer in die Schlauchleitung ein und stellt mit dem D-Ansaugschlauch die Verbindung zwischen Zumischer und Schaummittelbehälter her.",
+      "l": "Zumischer"
+    },
+    {
+      "q": "Wie sind beim Schaumrohreinsatz die Aufgaben im Schlauchtrupp verteilt?",
+      "a": "Der **Schlauchtruppführer (STF) bedient den Zumischer**, der **Schlauchtruppmann (STM) stellt die Verfügbarkeit des Schaummittels sicher** (Nachschub der Behälter).",
+      "l": "Zumischer"
+    },
+    {
+      "q": "Welche Grundsätze gelten für jeden Auftrag im Löscheinsatz?",
+      "a": "**Auftragserledigung und Sicherheit** gehören zusammen: Der Auftrag wird zügig, aber nie überhastet ausgeführt – Sicherheit geht vor Schnelligkeit. Erkannte Gefahren werden sofort gemeldet.",
+      "l": "Truppführer"
+    }
+  ]
+}

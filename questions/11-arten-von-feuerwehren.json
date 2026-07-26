@@ -20,6 +20,41 @@
       "q": "Was ist die Jugendfeuerwehr?",
       "a": "Die Jugendabteilung zur Nachwuchsgewinnung; sie nimmt nicht am Einsatzdienst teil.",
       "l": "Jugendfeuerwehr"
+    },
+    {
+      "q": "Wie ist die Aufgabenverteilung im Brandschutz nach dem NBrandSchG?",
+      "a": "**Land (§ 5)**: zentrale Aufgaben. **Landkreise (§ 3)**: übergemeindliche Aufgaben. **Gemeinden (§ 2)**: abwehrender Brandschutz und Hilfeleistung im Gemeindegebiet – u. a. Aufstellung, Ausrüstung, Unterhaltung und Einsatz leistungsfähiger Feuerwehren, Aus- und Fortbildung sowie Bereithaltung von Anlagen, Mitteln und Geräten.",
+      "l": "Niedersächsisches Brandschutzgesetz"
+    },
+    {
+      "q": "Welche Arten von Ortsfeuerwehren werden unterschieden?",
+      "a": "Ortsfeuerwehren als **Grundausstattungsfeuerwehr**, als **Stützpunktfeuerwehr** und als **Schwerpunktfeuerwehr**.",
+      "l": "Niedersächsisches Brandschutzgesetz"
+    },
+    {
+      "q": "Welche Feuerwehren sind gemeindliche und welche nicht gemeindliche Feuerwehren?",
+      "a": "**Gemeindlich** (§ 8 NBrandSchG): Freiwillige Feuerwehren (FF), Berufsfeuerwehren (BF) und Pflichtfeuerwehren (PF). **Nicht gemeindlich**: Werkfeuerwehren (WF).",
+      "l": "Niedersächsisches Brandschutzgesetz"
+    },
+    {
+      "q": "Wann gilt eine Werkfeuerwehr als gemeindliche Feuerwehr?",
+      "a": "Wenn ihr **gemeindliche Aufgaben** des Brandschutzes und der Hilfeleistung übertragen wurden. Die Funktion des Ortsbrandmeisters bzw. Gemeindebrandmeisters wird dann durch den **Leiter der Werkfeuerwehr** übernommen.",
+      "l": "Werkfeuerwehr"
+    },
+    {
+      "q": "Wovon hängen Unterstellungsverhältnisse in der Freiwilligen Feuerwehr ab?",
+      "a": "**Nicht vom Dienstgrad**, sondern von der **Dienststellung bzw. Funktion**.",
+      "l": "Dienstgrade der Feuerwehr in Deutschland"
+    },
+    {
+      "q": "Wozu dienen Funktionswesten an der Einsatzstelle?",
+      "a": "Sie machen **eindeutig kenntlich, welche Einsatzkraft welche Führungsposition** hat, sorgen für **bessere Sichtbarkeit** der Funktionsträger und damit für Orientierung sowie klare Zuständigkeiten und Hierarchien (Anlage 8 B FwVO).",
+      "l": "Feuerwehrverordnung"
+    },
+    {
+      "q": "Für wen gilt die Helmkennzeichnung?",
+      "a": "Sie kennzeichnet Funktion bzw. Qualifikation (z. B. Gruppenführer, Zugführer, Ortsbrandmeister) und **gilt auch für stellvertretende Funktionen**.",
+      "l": "Dienstgrade der Feuerwehr in Deutschland"
     }
   ]
 }

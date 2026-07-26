@@ -25,6 +25,66 @@
       "q": "Welche Mindestabstände gelten an Hochspannung (über 1000 V)?",
       "a": "Sprühstrahl mindestens 5 m, Vollstrahl mindestens 10 m.",
       "l": "Mehrzweckstrahlrohr"
+    },
+    {
+      "q": "Wie ist die Verbrennung definiert?",
+      "a": "Ein Vorgang, bei dem ein brennbarer Stoff **unter Feuererscheinung** (Flamme und/oder Glut) und **Wärmefreisetzung** (physikalischer Vorgang) **mit Sauerstoff reagiert** (chemischer Vorgang = schnelle Oxidation).",
+      "l": "Verbrennung (Chemie)"
+    },
+    {
+      "q": "Ist jede Oxidation ein Verbrennungsvorgang?",
+      "a": "Nein. **Jeder Verbrennungsvorgang ist eine Oxidation, aber nicht jede Oxidation ist eine Verbrennung** – z. B. Gärung, Verwesung und Rosten.",
+      "l": "Oxidation"
+    },
+    {
+      "q": "Welche Feuererscheinung zeigen die einzelnen Brandklassen?",
+      "a": "**A**: Flamme **und Glut** (fester Kohlenstoff). **B**: nur Flamme (Dämpfe der Flüssigkeit). **C**: nur Flamme (Gas). **D**: **nur Glut** (Metall). **F**: nur Flamme (Dämpfe der Öle/Fette).",
+      "l": "Brandklasse"
+    },
+    {
+      "q": "Was ist bei den Brandklassen A und D für den Abbrand entscheidend?",
+      "a": "Die **Oberfläche des brennbaren Stoffes im Verhältnis zu seiner Masse** – also die Sauerstoffzutrittsmöglichkeit. Beispiel: Holzscheit brennt langsam, Sägespäne beschleunigt, Holzwolle sehr schnell, Sägemehl „explosionsartig“.",
+      "l": "Brandklasse"
+    },
+    {
+      "q": "Was ist der Unterschied zwischen Flammpunkt und Brennpunkt?",
+      "a": "Am **Flammpunkt** ist die Einleitung des Verbrennungsvorgangs möglich, am **Brennpunkt** ist die **Aufrechterhaltung** des Verbrennungsvorgangs gewährleistet. Merke: höhere Temperatur = höhere Verdunstung/Verdampfung.",
+      "l": "Flammpunkt"
+    },
+    {
+      "q": "Nenne Vorteile des Löschmittels Wasser.",
+      "a": "Bindet große Wärmemengen, ist chemisch neutral, ungiftig, fast überall verfügbar, **nicht komprimierbar** (gut unter Druck über weite Strecken und in große Höhen förderbar) und ermöglicht durch hohe Oberflächenspannung große Wurfweiten und -höhen.",
+      "l": "Löschwasser"
+    },
+    {
+      "q": "Nenne Nachteile bzw. Grenzen des Löschmittels Wasser.",
+      "a": "Es **gefriert und dehnt sich aus**, lässt einige Stoffe aufquellen, hat eine hohe Dichte und ist gefährlich bei **Leichtmetallbränden (Klasse D)**, **Fettbränden (Klasse F)** und allen mit Wasser heftig reagierenden Stoffen. Durch gelöste Mineralien/Salze ist es als Löschmittel **immer elektrisch leitfähig**.",
+      "l": "Löschwasser"
+    },
+    {
+      "q": "Welche Einsatzhinweise gelten für den Wassereinsatz?",
+      "a": "Möglichst **Sprühstrahl** einsetzen, **„Wasser halt“** wenn keine Feuererscheinung mehr erkennbar ist, **Vollstrahl nur auf Weisung**, am Rand der Brandfläche beginnend von unten nach oben löschen. Bei Frost Strahlrohre nie ganz schließen; nach „Zum Abmarsch fertig“ Schläuche und Armaturen entwässern.",
+      "l": "Löschwasser"
+    },
+    {
+      "q": "Welche Löschpulverarten gibt es und wie wirken sie?",
+      "a": "**BC-Pulver**: Antikatalyse. **ABC-Pulver (Glutbrandpulver)**: Ersticken (Glut) und Antikatalyse (Flammen). **D-Pulver (Metallbrandpulver)**: Ersticken.",
+      "l": "Löschpulver"
+    },
+    {
+      "q": "Welche Einsatzhinweise gelten für Löschpulver?",
+      "a": "Nur **auf ausdrücklichen Befehl** einsetzen (Löschmittelschäden). **Verboten in Hochspannungsanlagen**, in Niederspannungsanlagen Sicherheitsabstände einhalten. Da Pulver **keine Kühlwirkung** hat, ist mit **Rückzündungen** zu rechnen – Löschmittelreserven vorhalten. Eingesetztes Pulver ist **Sonderabfall**.",
+      "l": "Löschpulver"
+    },
+    {
+      "q": "Was bedeutet „antikatalytische“ Löschwirkung?",
+      "a": "Ein **reaktionshemmender Eingriff in den chemischen Ablauf** des Verbrennungsvorgangs – die Verbrennungsreaktion wird selbst unterbrochen.",
+      "l": "Löschmittel"
+    },
+    {
+      "q": "Nenne die Regeln für den richtigen Einsatz von Feuerlöschern.",
+      "a": "1. Brandklassen prüfen, 2. betriebsbereit machen, 3. Warnhinweise befolgen, 4. richtigen Abstand wählen, 5. bei B/C/F die gesamte Flammenzone erfassen – bei A auf das Brandgut zielen, 6. von der Randzone zum Zentrum und von unten nach oben (bei Tropf- und Fließbränden umgekehrt), 7. auf die Windrichtung achten, 8. Standort ständig wechseln, 9. mehrere Löscher **gleichzeitig**, nicht nacheinander einsetzen, 10. nach jedem Einsatz überprüfen lassen.",
+      "l": "Feuerlöscher"
     }
   ]
 }

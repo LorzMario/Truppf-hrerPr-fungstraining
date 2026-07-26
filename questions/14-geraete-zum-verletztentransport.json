@@ -20,6 +20,16 @@
       "q": "Wann wird ein Rettungstuch eingesetzt?",
       "a": "Zum schnellen Retten/Transportieren von Personen über kurze Strecken und durch enge Bereiche.",
       "l": "Rettungstuch"
+    },
+    {
+      "q": "Wie ordnet die DIN 14800 das Rettungsgerät ein?",
+      "a": "Als **Gruppe 4 – Rettungsgeräte**. Dazu zählen u. a. tragbare Leitern, Sprungrettungsgeräte, Rettungstuch, Feuerwehrleine, Auffanggurt, Gerätesatz Absturzsicherung und das Rollgliss.",
+      "l": "Feuerwehrtechnische Beladung"
+    },
+    {
+      "q": "Welcher Gruppe nach DIN 14800 gehört das Sanitätsmaterial an?",
+      "a": "Der **Gruppe 5 – Sanitäts- und Wiederbelebungsgerät**.",
+      "l": "Feuerwehrtechnische Beladung"
     }
   ]
 }
